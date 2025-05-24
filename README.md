@@ -1,4 +1,4 @@
-# 🏫 School API
+# 🏫 School_Management API
 
 A Node.js + Express REST API to manage and list schools by proximity. Built with MySQL and documented using Swagger.
 
@@ -25,8 +25,8 @@ A Node.js + Express REST API to manage and list schools by proximity. Built with
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/school-api.git
-cd school-api
+git clone https://github.com/your-username/school_management_api.git
+cd school_management_api
 ```
 
 2. **Install Dependencies**
