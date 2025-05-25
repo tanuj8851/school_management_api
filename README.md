@@ -12,9 +12,9 @@ A Node.js + Express REST API to manage and list schools by proximity. Built with
 
 ## 🧰 Tech Stack
 
-- Node.js
+- Node.js - Deployed on Render
 - Express.js
-- MySQL (via `mysql2`)
+- MySQL (via `mysql2`) Deployed on Railway
 - Swagger (`swagger-ui-express`, `swagger-jsdoc`)
 - Dotenv
 
